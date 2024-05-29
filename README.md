@@ -25,21 +25,25 @@ Before you begin, ensure you have the following installed on your machine:
 
 1. **Clone the Repository**:
 
-   ```sh
-   git clone https://github.com/bro-maanii/FoodWorld-App.git
-   cd FoodWorld-App
-## Backend Setup:
-'
-  cd backend
-  poetry run uvicorn backend.main:app --reload (on cmd line)
-'
+      ```sh
+      git clone https://github.com/bro-maanii/FoodWorld-App.git
+   
+      cd FoodWorld-App
+   
+2. **Backend Setup**:
+      ```sh
+      cd backend
+      
+      poetry run uvicorn backend.main:app --reload 
 
-## Frontend Setup:
-'
-  cd ../frontend
-  npm install
-  npm run dev
-'
+3. **Frontend Setup**:
+      ```sh
+      cd ../frontend
+
+      npm install
+
+      npm run dev
+
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any changes
