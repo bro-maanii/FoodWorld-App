@@ -54,4 +54,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 1. **Copy the content** of the above `README.md` into a new file named `README.md` in the root directory of your project.
 2. **Modify any sections** as necessary to better fit your project specifics, such as adding more details to the installation steps, usage instructions, or contributing guidelines.
 
-This `README.md` should provide a clear and structured introduction to your project, making it easier for others to understand and contribute to it.
+
