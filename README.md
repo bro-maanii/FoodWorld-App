@@ -1,4 +1,4 @@
-# FoodWorld-App
+## FoodWorld-App
 
 Welcome to FoodWorld-App, a comprehensive application for managing restaurant reservations. This repository contains both the frontend and backend components of the application.
 
